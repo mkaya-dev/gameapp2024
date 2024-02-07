@@ -1,0 +1,188 @@
+/* navbar */
+
+nav{
+   display: flex;
+   justify-content:space-around;
+   background-color: black;
+   color: white;
+   height: 200px;
+   padding-top: 65px;
+
+}
+
+
+
+li{
+    list-style: none;
+    float: left;
+    margin-left: 50px;
+    letter-spacing: 2px;
+}
+
+li:hover{
+    border-bottom: 3px solid  #FC6736;
+    cursor: pointer;
+}
+
+.kutu1{
+    color: white;
+    padding: 150px;
+    margin-top: 150px;
+    height: 500px;
+    background-color: black;
+}
+
+.kutu2{
+    color: white;
+    padding: 150px;
+    height: 500px;
+    background-color: #40A2E3;
+}
+
+.kutu3{
+    color: white;
+    padding: 150px;
+    height: 500px;
+    background-color: #944E63;
+}
+
+.kutu4{
+    color: white;
+    padding: 150px;
+    height: 500px;
+    background-color: #FC6736;
+}
+
+
+.kutu6{
+    margin-top: 1660px;
+    color: white;
+    padding: 150px;
+    height: 1700px;
+    background-color: #FFE3BB;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.sol{
+    float: left;
+}
+.sag{
+    float: right;
+}
+
+
+/* pinternest */
+
+
+.container{
+    width: 100%;
+    columns: 8;
+    column-gap: 15px;
+    padding: 15px;
+    margin-top: -10px;
+    margin-right: 10px;
+    float: right;
+  }
+  
+  img{
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+  }
+
+  .containerr{
+    width: 100%;
+    columns: 5;
+    column-gap: 15px;
+    padding: 15px;
+    margin-top: -10px;
+    margin-right: -50px;
+    float: right;
+  }
+
+  .focus:hover{
+        background-color: #FC6736;
+        transition: 1s;
+  }
+
+  /* ust navbar */
+
+  .ustnavbar{
+    width: 100%;
+    height: 200px;
+    background-color: #FC6736;
+  }
+
+/* alt navbar */
+
+.dıs{
+    width: 100%;
+    height: 450px;
+    background-color: #FC6736;
+}
+
+.ıc{
+    padding: 120px;
+    color: white;
+}
+
+.btn{
+    background-color: inherit;
+    color: white;
+}
+
+
+ul{
+    float: left;
+    
+}
+
+
+/* loading */
+
+.orta{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+
+/* profil kayıt ol kısmı */
+
+
+.profilDıs{
+    margin: auto;
+    width: 850px;
+    height: 500px;
+    background-color: #FC6736;
+}
+
+.profilkutu1{
+    background-color: white;
+    width: 430px;
+    filter: blur(23px);
+    height: 450px;
+}
+
+.profilkutu1:hover{
+    transition: 1s;
+    filter: blur();
+}
+
+.profilkutu2:hover{
+    transition: 1s;
+    filter: blur();
+}
+
+.profilkutu2{
+    background-color: white;
+    width: 400px;
+    height: 450px;
+    filter: blur(23px);
+}
+
+
+
+
