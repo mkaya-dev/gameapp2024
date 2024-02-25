@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 import "../Pages/All.css"
 
  const Navbar = () => {
-  const navigate = useNavigate();
-  
   return (
     <>
     <nav>
