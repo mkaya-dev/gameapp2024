@@ -11,7 +11,7 @@ import "../Pages/All.css"
             <li><a href='#2' >Magza Listesi</a></li>
             <li><a href="#1">Hakkında</a></li>
             <li><a href='#3' >Galeri</a></li>
-            <li><a href='/KayıtOl'>Kayıt Ol</a></li>
+            <li><a href='/KayitOl'>Kayıt Ol</a></li>
 
         </ul>
     </nav>
